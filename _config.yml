@@ -17,16 +17,13 @@ theme:
 
   # Icons
   rss: false
-  email_address: "efremidzel@gmail.com" # Full email address, e.g. "sam@example.com"
   github: "efremidze"
-  instagram: "efremidze"
   linkedin: "https://www.linkedin.com/in/efremidze" # Full URL
-  stack_exchange: "http://stackoverflow.com/users/1804731/efremidze" # Full URL
   twitter: "lasha_"
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  disqus_shortname: "efremidze"
   katex: true # Enable if using math markup
 
   # Localization strings
