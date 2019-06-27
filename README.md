@@ -1,4 +1,4 @@
-# efremidze.github.io
+# [efremidze.github.io](http://efremidze.com)
 
 ## Installation
 
@@ -28,3 +28,7 @@ $ bundle exec jekyll serve
 ```bash
 $ bundle exec jekyll build --future --drafts --watch
 ```
+
+## Theme
+
+[Type](https://rohanchandra.github.io/project/type/)
